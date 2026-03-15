@@ -1,0 +1,1 @@
+print('How to Solve "Git Error | GitHub Error: failed to push some refs to [REPO URL]"')
